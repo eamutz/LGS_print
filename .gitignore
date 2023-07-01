@@ -1,13 +1,3 @@
-/LGS_Doersel.0001.rvt
-/LGS_Doersel.0002.rvt
-/LGS_Doersel.0003.rvt
-/LGS_Doersel.0004.rvt
-/LGS_Doersel.0005.rvt
-/LGS_Doersel.0006.rvt
-/LGS_Doersel.0007.rvt
-/LGS_Doersel.0008.rvt
-/LGS_Doersel.0009.rvt
-/LGS_Doersel.0010.rvt
-/LGS_Doersel.0011.rvt
-/LGS_Doersel.0012.rvt
-/~$arbeitungsdokument 3D.docx
+/LGS_Doersel.[0-9][0-9][0-9][0-9].rvt
+/~$*.docx
+*.tmp
